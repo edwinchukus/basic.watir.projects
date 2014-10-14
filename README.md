@@ -1,4 +1,1 @@
-SecondRepoOnGitHub
-==================
-
-Second Repo on the Github for practising with Ruby codes. 
+Here is a repo for storing basic watir-web driver projects using Ruby! 
